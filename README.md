@@ -1,3 +1,3 @@
-# task-ledger Ariado
+# ariado
 Multi-user Discord bot for managing university deadlines, tasks and progress tracking
 test
