@@ -1,0 +1,1 @@
+"""AITU deadline Discord bot."""
